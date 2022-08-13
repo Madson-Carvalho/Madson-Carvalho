@@ -1,7 +1,5 @@
 ## Hi there! my name is Madson Carvalho ⚛️
 
-<hr>
-
 I'm a Junior Web Programmer. I really like new challenges and using programming to solve them.
 I'm studying Systems Analysis and Development and I look forward to working with Machine Learning and AI in the future.
 
@@ -13,7 +11,7 @@ I'm studying Systems Analysis and Development and I look forward to working with
 
 ### 📫 How to reach me:
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](madsonraynnon@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madson-carvalho-1b0130226/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madsonraynnon@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madson-carvalho-1b0130226/)
 
 <hr>
 
