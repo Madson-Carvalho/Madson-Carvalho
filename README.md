@@ -1,7 +1,7 @@
 ## Hi there! my name is Madson Carvalho ⚛️
 
 I'm a Junior Web Programmer. I really like new challenges and using programming to solve them.
-I'm studying Systems Analysis and Development and I look forward to working with Machine Learning and AI in the future.
+I'm studying Systems Analysis and Development.
 
 <hr>
 
